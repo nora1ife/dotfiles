@@ -1,0 +1,12 @@
+{
+  "workbench.editor.showIcons": false,
+  "workbench.colorTheme": "Solarized Dark+",
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+      "erb": "html"
+  },
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "terminal.integrated.fontFamily": "Source Code Pro for Powerline"
+}
